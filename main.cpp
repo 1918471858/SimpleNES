@@ -22,7 +22,7 @@ int main(int argc, char** argv)
 
     sn::Log::get().setLevel(sn::Info);
 
-    std::string path;
+    std::string path = "E:\\workSpase\\GitWorkSpase\\SimpleNES\\gameNesData\\»ê¶·ÂÞ1´úÃÀ°æ.nes";
     std::string keybindingsPath = "keybindings.conf";
 
     //Default keybindings
